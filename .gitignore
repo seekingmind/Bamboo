@@ -106,3 +106,5 @@ fabric.properties
 
 /bin
 /bin-int
+
+.vs/
