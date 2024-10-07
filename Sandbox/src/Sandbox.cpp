@@ -11,7 +11,7 @@
 class Sandbox : public Bamboo::Application
 {
 public:
-	Sandbox() {};
+	Sandbox() { BB_TRACE("Hello!"); };
 	~Sandbox() {};
 
 private:

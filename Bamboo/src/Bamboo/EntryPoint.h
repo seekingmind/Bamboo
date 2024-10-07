@@ -7,7 +7,7 @@ extern Bamboo::Application* Bamboo::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	printf("Welcome To Bamboo Game Engine!!!");
+	BB_CORE_TRACE("Welcome To Bamboo Game Engine!!!");
 	Bamboo::Application* app = Bamboo::CreateApplication();
 	app->Run();
 	delete app;

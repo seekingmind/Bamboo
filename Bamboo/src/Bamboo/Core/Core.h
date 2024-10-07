@@ -1,9 +1,9 @@
 #pragma once
 
 namespace Bamboo {
-	//void InitializeCore();
+	void InitializeCore();
 
-	//void ShutdownCore();
+	void ShutdownCore();
 }
 
 // ∫Í∂®“Â
