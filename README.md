@@ -16,6 +16,6 @@ Run BuildProjects.bat to build start binary which will generate at bin folder.
 
 The following image is a screenshot of the program currently running.
 
-![1728308090420](\images\1728308090420.jpg)
+![1728308090420](images/1728308090420.jpg)
 
 I don't know why, but the logs printed out by my program don't have color differentiation. My computer system is Windows 11, and I'm using Visual Studio 2022 as my IDE.
